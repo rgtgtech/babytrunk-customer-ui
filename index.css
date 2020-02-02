@@ -356,7 +356,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-in-out;
 	--web-action-type: page;
-	--web-action-target: Searchpage_.html;
+	--web-action-target: searchpage.html;
 	cursor: pointer;
 }
 .zoomout {

@@ -765,7 +765,7 @@ a {
 .map-contact address{margin:0px;}
 .map-address-outer{margin-top:-9px;}
 .map-contact{
-	    background: #e6dbd9;
+	    background: #ffc0cb;
     clear: both;
     margin: 0px 0 0 0;
     text-align: center;
@@ -782,7 +782,7 @@ a {
 .nivo-controlNav{display:none !important}
 footer{margin-top:50px;}
 .contact-form .form-control{border-radius: 9px;height: 38px;}
-.submit{width: 49% !important;margin: auto;    background: #dca39a !important;border:0px !important}
+.submit{width: 49% !important;margin: auto;    background: #ffc0cb !important;border:0px !important}
 .contact-form{    border-radius: 35px;box-shadow: 0 0 11px #ccc;}
 .form-group {
     margin-bottom: 5px;
@@ -810,7 +810,10 @@ footer{margin-top:50px;}
 	display:inline-block;
 	margin-top:15px;
 }
+p{font-family: sans-serif;}
+
 .mission-content-outer{padding-top:35px;padding-right: 0px;}
+.home-left-icon li:hover a{color:#dca39a;}
 @media only screen and (max-width: 767px) {
   .menu-mobile{display:block}
   .menu-desktop{display:none;}
